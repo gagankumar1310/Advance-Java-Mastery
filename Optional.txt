@@ -1,0 +1,2 @@
+i have learned core java in which i worked on oops , collections , multithreading and exception handling .
+ i am learning dsa parallel.
